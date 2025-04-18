@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yogeshMMF
-- 👀 I’m interested in nodejs and reactjs
 - 🌱 I’m currently learning angularjs
 - 💞️ I’m looking to collaborate on open source 
 - 📫 How to reach me  yogesh.gurjar@mmfinfotech.in
