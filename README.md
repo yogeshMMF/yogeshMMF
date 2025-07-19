@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogeshMMF
 - 🌱 I’m currently learning angularjs
 - 💞️ I’m looking to collaborate on open source 
-- 📫 How to reach me  yogesh.gurjar@mmfinfotech.in
+- 📫 How to reach me  yogeshgurjar119@gmail.com
 - 😄 Pronouns: yogesh
 
 <!---
